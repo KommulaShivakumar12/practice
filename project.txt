@@ -1,0 +1,22 @@
+Project: Task Tracker
+
+Purpose:
+The Task Tracker is a streamlined application designed to help users efficiently manage tasks,
+prioritize activities, and stay organized. 
+
+Features:
+Task Management: Easily add, edit, delete, and mark tasks as completed or pending.
+
+Categorization & Prioritization: Organize tasks into categories and set priorities (High, Medium, Low).
+
+Deadline Tracking: Assign deadlines and receive reminders for upcoming or overdue tasks.
+
+Search & Filter: Quickly search or filter tasks by name, category, status, or priority.
+
+Progress Tracking: View overall progress through visual indicators like completion percentages.
+
+
+
+
+
+
